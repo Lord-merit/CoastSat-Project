@@ -1,0 +1,4 @@
+filename	2019-10-14-08-28-50_L8_Kleopatra_ms.tif
+acc_georef	6.352
+epsg	32636
+image_quality	9

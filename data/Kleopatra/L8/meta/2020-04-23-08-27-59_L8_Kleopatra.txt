@@ -1,0 +1,4 @@
+filename	2020-04-23-08-27-59_L8_Kleopatra_ms.tif
+acc_georef	5.712
+epsg	32636
+image_quality	9

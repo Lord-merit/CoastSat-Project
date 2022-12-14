@@ -1,0 +1,4 @@
+filename	2016-04-12-08-28-03_L8_Kleopatra_ms.tif
+acc_georef	5.646
+epsg	32636
+image_quality	9

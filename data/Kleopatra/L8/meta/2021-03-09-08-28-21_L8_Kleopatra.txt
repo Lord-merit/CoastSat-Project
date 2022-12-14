@@ -1,0 +1,4 @@
+filename	2021-03-09-08-28-21_L8_Kleopatra_ms.tif
+acc_georef	7.628
+epsg	32636
+image_quality	9

@@ -1,0 +1,4 @@
+filename	2018-09-25-08-28-08_L8_Kleopatra_ms.tif
+acc_georef	4.993
+epsg	32636
+image_quality	9

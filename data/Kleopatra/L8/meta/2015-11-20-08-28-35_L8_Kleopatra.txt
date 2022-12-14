@@ -1,0 +1,4 @@
+filename	2015-11-20-08-28-35_L8_Kleopatra_ms.tif
+acc_georef	7.196
+epsg	32636
+image_quality	9
